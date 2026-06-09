@@ -31,6 +31,7 @@ This is a personal portfolio website built using HTML, CSS, and JavaScript as pa
 
 ## 🌐 Live Demo
 
+https://venkamsettyadilakshmi-star.github.io/CodeAlpha_Portfolio/
 
 ---
 
